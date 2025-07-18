@@ -1,0 +1,5 @@
+# Aturan untuk proxy API
+[[redirects]]
+  from = "/api/*"
+  to = "https://suitmedia-backend.suitdev.com/api/:splat"
+  status = 200
