@@ -33,20 +33,20 @@ Proyek ini di-deploy menggunakan Netlify.
 
 ## Struktur Proyek
 
-Suitmedia-Project/
-├── config/
-│   ├── webpack.common.js
-│   ├── webpack.dev.js
-│   └── webpack.prod.js
-├── dist/                     # Hasil build Webpack
-├── node_modules/
-├── src/
-│   ├── assets/               # Aset gambar lokal (logo, banner)
-│   │   ├── logo.png
-│   │   └── bannerheader.png
-│   ├── index.html            # Template HTML utama
-│   ├── index.js              # JavaScript utama (entry point)
-│   └── style.css             # CSS global
-├── package.json              
-├── package-lock.json         
-└── README.md                 
+Suitmedia-Project/ <br>
+├── config/ <br>
+│   ├── webpack.common.js <br>
+│   ├── webpack.dev.js <br>
+│   └── webpack.prod.js <br>
+├── dist/                     # Hasil build Webpack <br>
+├── node_modules/ <br>
+├── src/ <br>
+│   ├── assets/               # Aset gambar lokal (logo, banner) <br>
+│   │   ├── logo.png <br>
+│   │   └── bannerheader.png <br>
+│   ├── index.html            # Template HTML utama <br>
+│   ├── index.js              # JavaScript utama (entry point) <br>
+│   └── style.css             # CSS global <br>
+├── package.json              <br>
+├── package-lock.json         <br>
+└── README.md                 <br>
